@@ -1,0 +1,21 @@
+img {
+    height: 300px;
+    width: 450px;
+}
+
+h1 {
+    color:darkgreen
+}
+
+h2 {
+    color: maroon;
+}
+
+li {
+    height: 25px;
+}
+
+.yellow {
+    background-color: goldenrod;
+    font-size: 20px;
+}
